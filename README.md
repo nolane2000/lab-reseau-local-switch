@@ -52,6 +52,6 @@ La communication entre les deux machines est fonctionnelle.
 
 ## 📁 Fichiers
 
-- lab-reseau-local-switch.pkt
+- lab-reseau-switch-communication.pkt
 - topologie-reseau-local.png
 - test-ping-reseau-local.png
